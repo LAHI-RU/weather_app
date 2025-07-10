@@ -21,7 +21,7 @@ A modern, responsive React weather application that provides real-time weather i
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/LAHI-RU/weather_app
    cd weather_app
    ```
 
